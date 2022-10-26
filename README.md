@@ -1,5 +1,5 @@
 # PoE-Deadfire-_fix
-Citrix Receiver fix for Pillars of Eternity - Deadfire
+## Citrix Receiver fix for Pillars of Eternity - Deadfire
 
 For lazy people: 
 - Make sure the batch file is in the same directory as the Citrix Receiver (CitrixWorkspaceApp.exe). 
